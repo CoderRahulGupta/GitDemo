@@ -12,4 +12,5 @@ System.out.println("Pushing from another branch");
 System.out.println("Syncronisation of two branches");
 System.out.println("I am performing Stage testing");
 System.out.println("I will be performing checkout on this");
+
 }}
