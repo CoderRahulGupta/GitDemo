@@ -15,4 +15,6 @@ System.out.println("I will be performing checkout on this");
 
 System.out.println("I am mixed 1");
 
+System.out.println("I am creating tags");
+
 }}
